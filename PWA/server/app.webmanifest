@@ -1,0 +1,16 @@
+{
+  "name": "A simple spike",
+  "short_name": "PWA",
+  "start_url": "./",
+  "orientation": "landscape",
+  "theme_color": "orange",
+  "scope": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "static/icon.512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
